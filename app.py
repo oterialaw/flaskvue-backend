@@ -1,0 +1,2 @@
+#starting points
+#start sql 
